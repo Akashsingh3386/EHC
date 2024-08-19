@@ -13,7 +13,7 @@ import io.cucumber.java.en.Then;
 public class addtoCart {
 	
 WebDriver driver;
-
+//New
 	
 	@Given("user launch site")
 	public void user_launch_site() {
